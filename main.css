@@ -24,3 +24,7 @@
 
     box-shadow:inset 5px 5px 30px magenta; 
 }
+.image img{
+    width: 20rem;
+    height: 20rem;
+}
